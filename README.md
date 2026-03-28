@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Ewerton Alves 👋</h1>
 
 <p align="center">
-  <em>Computer Science student & .NET Developer focused on performance, architecture and clean code.</em>
+  <em>Computer Science student & .NET Developer focused on performance, architecture and scalable systems.</em>
 </p>
 
 <p align="center">
@@ -10,50 +10,42 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
 - 🎓 Computer Science student  
 - 💼 .NET Developer (C#)  
 - 🔍 Strong focus on problem-solving and deep thinking  
 - 🚀 Always exploring new technologies  
-- ⚡ Interested in architecture, performance and scalable systems  
+- ⚡ Passionate about performance and clean architecture  
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img height="170em" src="https://ewerton02.vercel.app/api?username=Ewerton02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&v=final-test-01" />
-  <img height="170em" src="https://ewerton02.vercel.app/api/top-langs/?username=Ewerton02&layout=compact&theme=dracula&hide_border=true&v=final-test-01" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,python,c,html,css,mysql" />
 </p>
 
 ---
 
-### 🔥 Streak
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ewerton02&theme=dracula&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats-virid-beta-71.vercel.app/api?username=Ewerton02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=60"/>
+  <img height="170em" src="https://github-readme-stats-virid-beta-71.vercel.app/api/top-langs/?username=Ewerton02&layout=compact&theme=dracula&cache_seconds=60"/>
 </p>
 
 ---
 
-### 📈 Activity Graph
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ewerton02&theme=dracula&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ewerton02&theme=dracula&hide_border=true" />
@@ -61,18 +53,18 @@
 
 ---
 
-### 🧩 Highlights
+## 🧩 Highlights
 
 - Clean architecture and maintainable code  
 - Performance optimization mindset  
-- Experience with APIs and integrations  
+- Experience with APIs and third-party integrations  
 - Strong debugging and refactoring skills  
 
 ---
 
-### 📫 Contact
+## 📫 Contact
 
-<p align="left">
+<p align="center">
   <a href="mailto:jose_ewerton@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
